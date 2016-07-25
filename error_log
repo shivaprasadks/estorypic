@@ -1,0 +1,19 @@
+[08-Dec-2015 13:09:35 America/New_York] PHP Parse error:  syntax error, unexpected '<' in /home/estorypi/public_html/englishstories.php on line 85
+[08-Dec-2015 13:26:54 America/New_York] PHP Parse error:  syntax error, unexpected '{' in /home/estorypi/public_html/englishstories.php on line 144
+[08-Dec-2015 13:27:32 America/New_York] PHP Parse error:  syntax error, unexpected ':' in /home/estorypi/public_html/englishstories.php on line 144
+[08-Dec-2015 13:27:57 America/New_York] PHP Parse error:  syntax error, unexpected ':' in /home/estorypi/public_html/englishstories.php on line 144
+[08-Dec-2015 13:33:57 America/New_York] PHP Parse error:  syntax error, unexpected '=' in /home/estorypi/public_html/englishstories.php on line 144
+[08-Dec-2015 13:34:19 America/New_York] PHP Parse error:  syntax error, unexpected '=' in /home/estorypi/public_html/englishstories.php on line 144
+[08-Dec-2015 13:34:45 America/New_York] PHP Parse error:  syntax error, unexpected 'Story_ID' (T_STRING), expecting ',' or ';' in /home/estorypi/public_html/englishstories.php on line 144
+[08-Dec-2015 13:34:57 America/New_York] PHP Parse error:  syntax error, unexpected 'Story_ID' (T_STRING), expecting ',' or ';' in /home/estorypi/public_html/englishstories.php on line 144
+[08-Dec-2015 13:35:21 America/New_York] PHP Parse error:  syntax error, unexpected '}' in /home/estorypi/public_html/englishstories.php on line 147
+[08-Dec-2015 13:35:37 America/New_York] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in /home/estorypi/public_html/englishstories.php on line 144
+[08-Dec-2015 13:35:53 America/New_York] PHP Parse error:  syntax error, unexpected 'Story_ID' (T_STRING), expecting ',' or ';' in /home/estorypi/public_html/englishstories.php on line 144
+[08-Dec-2015 13:37:28 America/New_York] PHP Parse error:  syntax error, unexpected 'Story_ID' (T_STRING), expecting ',' or ';' in /home/estorypi/public_html/englishstories.php on line 144
+[09-Dec-2015 01:18:54 America/New_York] PHP Parse error:  syntax error, unexpected '{' in /home/estorypi/public_html/chapters.php on line 164
+[10-Dec-2015 11:32:18 America/New_York] PHP Warning:  mysql_fetch_array() expects parameter 2 to be long, resource given in /home/estorypi/public_html/chapters.php on line 44
+[10-Dec-2015 11:33:02 America/New_York] PHP Warning:  mysql_fetch_array() expects parameter 2 to be long, resource given in /home/estorypi/public_html/chapters.php on line 24
+[10-Dec-2015 11:33:02 America/New_York] PHP Warning:  mysql_fetch_array() expects parameter 2 to be long, resource given in /home/estorypi/public_html/chapters.php on line 44
+[10-Dec-2015 11:33:46 America/New_York] PHP Warning:  mysql_fetch_array() expects parameter 2 to be long, resource given in /home/estorypi/public_html/chapters.php on line 24
+[10-Dec-2015 11:33:46 America/New_York] PHP Warning:  mysql_fetch_array() expects parameter 2 to be long, resource given in /home/estorypi/public_html/chapters.php on line 44
+[10-Dec-2015 11:34:19 America/New_York] PHP Warning:  mysql_fetch_array() expects parameter 2 to be long, resource given in /home/estorypi/public_html/chapters.php on line 44

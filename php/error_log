@@ -1,0 +1,24 @@
+[21-Nov-2015 13:48:39 America/New_York] PHP Fatal error:  Uncaught exception 'Exception' with message 'SQLSTATE[HY000] [1044] Access denied for user 'estorypi_pavan'@'localhost' to database 'estorypi_we'' in /home/estorypi/public_html/php/medoo.php:150
+Stack trace:
+#0 /home/estorypi/public_html/php/Database.php(12): medoo->__construct(Array)
+#1 /home/estorypi/public_html/php/test.php(4): getDatabase()
+#2 {main}
+  thrown in /home/estorypi/public_html/php/medoo.php on line 150
+[25-Nov-2015 11:48:47 America/New_York] PHP Parse error:  syntax error, unexpected 'SALARY' (T_STRING), expecting ',' or ';' in /home/estorypi/public_html/php/stories.php on line 59
+[25-Nov-2015 12:35:19 America/New_York] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/estorypi/public_html/php/stories.php on line 65
+[25-Nov-2015 12:35:48 America/New_York] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/estorypi/public_html/php/stories.php on line 65
+[25-Nov-2015 12:36:19 America/New_York] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/estorypi/public_html/php/stories.php on line 65
+[25-Nov-2015 12:39:03 America/New_York] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/estorypi/public_html/php/stories.php on line 64
+[25-Nov-2015 13:03:11 America/New_York] PHP Parse error:  syntax error, unexpected 'SALARY' (T_STRING), expecting ',' or ';' in /home/estorypi/public_html/php/chapters.php on line 59
+[25-Nov-2015 13:10:14 America/New_York] PHP Parse error:  syntax error, unexpected '1' (T_LNUMBER) in /home/estorypi/public_html/php/chapters.php on line 29
+[25-Nov-2015 13:10:59 America/New_York] PHP Parse error:  syntax error, unexpected '1' (T_LNUMBER) in /home/estorypi/public_html/php/chapters.php on line 57
+[25-Nov-2015 13:18:40 America/New_York] PHP Parse error:  syntax error, unexpected '.' in /home/estorypi/public_html/php/chapters.php on line 74
+[25-Nov-2015 14:41:41 America/New_York] PHP Parse error:  syntax error, unexpected end of file in /home/estorypi/public_html/php/submitstory.php on line 10
+[25-Nov-2015 14:50:25 America/New_York] PHP Parse error:  syntax error, unexpected '$sql' (T_VARIABLE), expecting ',' or ';' in /home/estorypi/public_html/php/addchapter.php on line 20
+[26-Nov-2015 14:11:45 America/New_York] PHP Parse error:  syntax error, unexpected '"', expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/estorypi/public_html/php/addchapter.php on line 40
+[26-Nov-2015 14:12:00 America/New_York] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/estorypi/public_html/php/addchapter.php on line 40
+[26-Nov-2015 14:12:20 America/New_York] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/estorypi/public_html/php/addchapter.php on line 40
+[26-Nov-2015 14:17:18 America/New_York] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/estorypi/public_html/php/addchapter.php on line 35
+[26-Nov-2015 14:18:12 America/New_York] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/estorypi/public_html/php/addchapter.php on line 35
+[26-Nov-2015 14:21:10 America/New_York] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO), expecting ',' or ';' in /home/estorypi/public_html/php/addchapter.php on line 35
+[26-Nov-2015 15:06:54 America/New_York] PHP Parse error:  syntax error, unexpected 'selected' (T_STRING), expecting ',' or ';' in /home/estorypi/public_html/php/addchapter.php on line 81
